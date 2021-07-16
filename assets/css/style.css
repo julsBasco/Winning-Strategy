@@ -2970,7 +2970,7 @@ hero-btn {
 /* line 910, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
 .footer-padding {
   padding-top: 143px;
-  padding-bottom: 80px;
+  padding-bottom: 0px;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -3423,7 +3423,7 @@ hero-btn {
 
 /* line 190, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
 .header-area .header-sticky.sticky-bar {
-  background: #fff;
+  background: #35455D;
 }
 
 /* line 195, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
@@ -8304,4 +8304,8 @@ del {
 
 .pie-chart-main h4, .pie-chart-main p {
 	color:rgb(0, 0, 0);
+}
+
+.single-testimonial {
+  margin-bottom: 10%;
 }
